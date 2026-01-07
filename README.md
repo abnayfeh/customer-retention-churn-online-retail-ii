@@ -66,3 +66,5 @@ A customer is considered **churned** if they are inactive for **90 consecutive d
 - 🔁 **Repeat customers contribute disproportionate revenue**, offsetting losses from early churn.
 - 📊 **Monthly churn rates decline over time**, suggesting improving customer quality or engagement.
 
+**Dataset Used:** https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci
+
