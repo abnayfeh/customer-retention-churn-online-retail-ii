@@ -5,6 +5,7 @@ The goal is to understand **how customer retention evolves over time**, how it d
 
 The analysis follows an end-to-end analytics workflow using **Python, SQLite, and Tableau**, resulting in an executive-style dashboard suitable for business stakeholders.
 
+**Dataset Used:** https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci
 ---
 
 ## 🔍 Project Overview
@@ -17,6 +18,7 @@ The analysis follows an end-to-end analytics workflow using **Python, SQLite, an
 
 **Churn definition:**  
 A customer is considered **churned** if they are inactive for **90 consecutive days**.
+
 
 ---
 
@@ -66,5 +68,4 @@ A customer is considered **churned** if they are inactive for **90 consecutive d
 - 🔁 **Repeat customers contribute disproportionate revenue**, offsetting losses from early churn.
 - 📊 **Monthly churn rates decline over time**, suggesting improving customer quality or engagement.
 
-**Dataset Used:** https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci
 
