@@ -41,7 +41,7 @@ A customer is considered **churned** if they are inactive for **90 consecutive d
 ## 🧠 Analytical Approach
 
 ### 1️⃣ Data Preparation (Python)
-- Cleaned raw transactional data (Online Retail II)
+- Cleaned raw transactional data (Online Retail II Dataset Link at -> https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci
 - Filtered invalid transactions and cancellations
 - Parsed dates and computed revenue fields
 - Exported a clean, analysis-ready transactions table
